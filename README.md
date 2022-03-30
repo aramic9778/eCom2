@@ -1,4 +1,4 @@
-## Welcome to Crazy Fingers eCommerce website written by Aram Antonyan
+## Welcome to Crazy Fingers eCommerce website
 
 This is my first ECommerce Portfolio Project. I created it by using HTML, CSS, JavaScript with the React/Redux.
 During implementation, I also used tools like MongoDB, Firebase, Stripe, EmailJS and Postman. Website fully responsive
